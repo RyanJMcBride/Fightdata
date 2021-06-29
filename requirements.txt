@@ -1,0 +1,7 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+
+numpy=1.20.3=pypi_0
+numpy-base=1.20.2=py39he0bd621_0
+pandas=1.2.4=pypi_0
